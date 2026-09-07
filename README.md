@@ -7,9 +7,9 @@
 <p align="center">
     <a href="mailto:yjl.vlolet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/%EC%9D%B4%EC%9C%A0%EC%A4%80/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://vlolet.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
     <!-- 💡 블로그 및 포트폴리오 작성이 완료되면 아래 주석(<!- - 부분)을 해제하고 링크를 넣어주세요! -->
     <!--
-    <a href="여기에_티스토리_링크_입력"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
     <a href="여기에_노션_링크_입력"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
     -->
   </p>
@@ -23,11 +23,11 @@
 ## 👨‍💻 About Me
 
 - **"코드가 현실의 움직임으로 구현되는 직관적인 재미"** <br>
-  고등학교 시절 로봇 축구 대회(RoboCup)에 출전하며 C언어로 직접 하드웨어를 제어하는 즐거움을 알게 되었습니다.<br><br>
-- **"소프트웨어와 하드웨어의 경계, 엣지 AI(Embedded AI)"** <br>
+  고등학교 시절 로보컵에 출전하며 C언어로 직접 하드웨어를 제어하는 즐거움을 알게 되었습니다.<br><br>
+- **"소프트웨어와 하드웨어의 경계, 엣지 AI"** <br>
   대학에서 AI를 전공하며, 무거운 AI 모델을 제한된 자원의 엣지 디바이스(Raspberry Pi, Qualcomm Chip 등)에 올리고 최적화하는 과정에 큰 매력을 느꼈습니다.<br><br>
 - **"인프라 구축부터 서비스 배포까지"** <br>
-  단순히 서비스를 돌려보는 것에 그치지 않고, OCI(Oracle Cloud) 기반 개인 서버에 Docker, Nginx Proxy Manager를 활용하여 직접 인프라를 구축하고 운영하는 것을 즐깁니다.<br><br>
+  단순히 서비스를 돌려보는 것에 그치지 않고, Oracle Cloud 개인 서버에 Docker, Nginx Proxy Manager를 활용하여 직접 인프라를 구축하고 운영하는 것을 즐깁니다.<br><br>
 - **"소통하는 개발자"** <br>
   비개발자 직군과의 협업 경험을 통해, 기술적인 구현만큼이나 배경지식이 다른 사람과 소통하고 의견을 조율하는 능력을 중요하게 생각합니다.
 
@@ -111,12 +111,12 @@
 
 ### 🖥️ Personal Infrastructure
 
-> 개인적인 학습과 서비스 배포를 위해 홈랩(Homelab) 인프라를 직접 구축하여 운영 중입니다. 
+> 개인적인 학습과 서비스 배포를 위해 홈랩 인프라를 직접 구축하여 운영 중입니다. 
 
-- **Environment**: Oracle Cloud Infrastructure (OCI) ARM Instance
+- **Environment**: Oracle Cloud Infrastructure ARM Instance
 - **Containerization**: `Docker` 기반 서비스 환경 구축
 - **Networking & Security**: `Cloudflare` 와 `Nginx Proxy Manager` 를 연동한 도메인 라우팅 및 SSL 인증서 관리
-- **Monitoring**: 실시간 시스템 리소스(CPU, MEM, RX/TX) 모니터링 환경 구축
+- **Monitoring**: 실시간 시스템 리소스 모니터링 환경 구축
 
 <br>
 
@@ -126,15 +126,15 @@
 | :--- | :--- | :--- |
 | **3개월** | **위험 소리 감지 및 알림 앱**<br>*(Qualcomm 기업 연계 프로젝트)* | - 딥러닝 모델 학습 및 최적화<br>- Qualcomm 칩 활용 엣지 환경 최적화<br>- 앱 기능 구현 |
 | **4개월** | **라즈베리파이-홈서버 기반 자율주행**<br>*(팀 프로젝트)* | - 자율주행 알고리즘 및 모델 구현<br>- 홈서버 인프라 구축 및 통신 아키텍처 설계 |
-| **7개월** | **2025 관광데이터 활용 공모전 앱**<br>*(팀 프로젝트)* | - 애플리케이션 프론트엔드(FE) 개발<br>- 앱스토어 배포 및 커뮤니케이션 리드 |
+| **7개월** | **2025 관광데이터 활용 공모전 앱**<br>*(팀 프로젝트)* | - 애플리케이션 프론트엔드 개발<br>- 앱스토어 배포 및 커뮤니케이션 리드 |
 | **4개월** | **개인형 패션 관리 및 추천 앱**<br>*(팀 프로젝트)* | - 사용자 맞춤형 패션 추천 AI 모델 학습 담당 |
-| **2년** | **로보컵(RoboCup) 축구 로봇 개발**<br>*(팀 프로젝트)* | - **1년차**: 로봇 하드웨어 설계 및 제작<br>- **2년차**: C/C++ 기반 로봇 제어 소프트웨어 총괄<br>- PID 제어 등을 통한 엄밀한 움직임 구현 |
+| **2년** | **RoboCup 축구 로봇 개발**<br>*(팀 프로젝트)* | - **1년차**: 로봇 하드웨어 설계 및 제작<br>- **2년차**: C/C++ 기반 로봇 제어 소프트웨어 총괄<br>- PID 제어 등을 통한 엄밀한 움직임 구현 |
 
 <br>
 
 ## 📚 Education & Training
 
-- (2026.03. ~ 진행중) **한화비전 VEDA (Vision's Edge Device Academy) 4기** | kdt 과정
+- (2026.03. ~ 2026.09) **한화비전 VEDA (Vision's Edge Device Academy) 4기** | 수료
 - (2022.03. ~ 2026.02.) **한성대학교 AI응용학과** | 학사
 - (2025.01. ~ 2025.02.) **LG Aimers 6기 Data Intelligence** | 수료
 - (2024.03. ~ 2025.02.) **심리상담 전문가 과정** | 한성대학교 Micro Degree
